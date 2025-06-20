@@ -2,11 +2,13 @@ import Image from "next/image";
 import { Outfit } from "next/font/google";
 
 const outfitTitle = Outfit({
-  weight: "700"
+  weight: "700",
+  subsets: ["latin"],
 });
 
 const outfitBody = Outfit({
-  weight: "400"
+  weight: "400",
+  subsets: ["latin"],
 });
 
 export default function Home() {
