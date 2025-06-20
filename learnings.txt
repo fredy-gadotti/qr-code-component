@@ -1,0 +1,5 @@
+- Add a background color to the entire body
+- Add an image
+- Add rouded borders
+- Centralize a div
+- Use font
